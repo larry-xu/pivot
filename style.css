@@ -12,9 +12,17 @@ header {
   margin: 0 20px;
 }
 
-h1 a {
-  font-size: 0.5em;
+h4 {
+  font-style: italic;
+  font-weight: normal;
+}
+
+h4 a {
   margin-left: 10px;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: bold;
+  color: #337ab7;
 }
 
 button {
